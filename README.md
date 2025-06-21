@@ -18,20 +18,20 @@ This project is a real-time sales analysis dashboard built using Power BI, lever
 
 ## Key KPIs Tracked
 
-### Transaction Performance
-- Net Sales: Total revenue (before tax)
-- Total Quantity: Total items sold
-- Net Avg Order Value: Average revenue per order
+### 1. Transaction Performance
+- **Net Sales**: Total revenue (before tax)
+- **Total Quantity**: Total items sold
+- **Net Avg Order Value**: Average revenue per order
 
-### Customer Purchase Behavior
-- Total Customers
-- Single Order Customers
-- Repeat Customers
+### 2. Customer Purchase Behavior
+- **Total Customers**: Number of unique buyers
+- **Single Order Customers**: Customers with only one purchase
+- **Repeat Customers**: Customers with more than one order
 
-### Retention & Customer Value
-- Lifetime Value (LTV)
-- Repeat Rate
-- Purchase Frequency
+### 3. Retention & Customer Value
+- **Lifetime Value (LTV)**: Revenue generated per customer over time
+- **Repeat Rate**: Percentage of customers who return to purchase again
+- **Purchase Frequency**: Average number of purchases per customer
 
 ---
 
