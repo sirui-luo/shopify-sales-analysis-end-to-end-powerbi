@@ -1,6 +1,10 @@
-# Shopify Sales Analysis | End-to-End Power BI Project (2025 Edition)
+# Shopify Sales Analysis | End-to-End Power BI Project
 
 This project is a real-time sales analysis dashboard built using Power BI, leveraging Shopify transactional data. The goal is to deliver actionable insights into sales performance, customer behavior, and retention metrics to support business decision-making.
+
+<img width="1244" alt="image" src="https://github.com/user-attachments/assets/eeacbf80-f0b0-4cc2-97a2-0f197ca5c71a" />
+
+<img width="1244" alt="image" src="https://github.com/user-attachments/assets/07758de6-ee5f-4394-a971-f8f65a9cfa44" />
 
 ---
 
@@ -76,6 +80,4 @@ This project is a real-time sales analysis dashboard built using Power BI, lever
 Delivered a scalable, interactive dashboard that empowers decision-makers with clear visibility into revenue drivers, customer loyalty, and purchase patterns.
 
 
-<img width="1244" alt="image" src="https://github.com/user-attachments/assets/eeacbf80-f0b0-4cc2-97a2-0f197ca5c71a" />
 
-<img width="1244" alt="image" src="https://github.com/user-attachments/assets/07758de6-ee5f-4394-a971-f8f65a9cfa44" />
