@@ -57,8 +57,6 @@ This project is a real-time sales analysis dashboard built using Power BI, lever
 
 ## Report Preview
 
-![Dashboard Preview](36a3d89c-9fbb-43ef-a738-96ec2867b2c2.png)
-
 [Click here to view the full report (PDF)](shopify.pdf)
 
 ---
